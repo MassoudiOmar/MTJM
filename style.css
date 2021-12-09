@@ -1,0 +1,315 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 450px;
+  background-image: url(./good-background-music.jpeg);
+  height: 1000px;
+}
+.logo {
+  position: fixed;
+  top: 0cm;
+  left: 650px;
+  font-size: 100px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: lightslategrey;
+}
+.logo2 {
+  position: fixed;
+  top: 166px;
+  left: 19cm;
+  color: darkslateblue;
+}
+.discord {
+  background-color: rgba(0, 0, 0, 0.575);
+  color: white;
+
+  position: relative;
+  border-radius: 34px;
+  top: 1cm;
+  left: 26cm;
+  font-size: 22px;
+}
+.header {
+  height: 198px;
+  left: 199px;
+  background-color: rgb(8 5 85 / 80%);
+  width: 1082.5px;
+  position: relative;
+  top: 0px;
+}
+
+.btn {
+  position: fixed;
+  background-color: darkslategray;
+  color: white;
+  top: 20px;
+  left: 30px;
+  border-radius: 5px;
+}
+.r {
+  position: fixed;
+  top: 61px;
+  left: 31px;
+}
+.bg {
+  position: fixed;
+  top: 0px;
+  background-color: rgba(0, 0, 0, 0.616);
+  width: 200px;
+  height: 100%;
+}
+.bg2 {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  background-color: rgba(0, 0, 0, 0.836);
+  width: 200px;
+  height: 100%;
+}
+a {
+  color: rgba(255, 255, 255, 0.836);
+  font-weight: 300;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover {
+  background-color: rgba(255, 255, 255, 0.281);
+  border-radius: 5px;
+}
+.ser {
+  width: 150px;
+  height: 25px;
+  border-radius: 20px;
+  position: fixed;
+  top: 21px;
+  right: 20px;
+}
+.btn3 {
+  position: fixed;
+  top: 20px;
+  left: 1394px;
+  font-size: 20px;
+  border-radius: 4px;
+  height: 33px;
+  background-color: rgb(70, 70, 255);
+  color: white;
+}
+.email {
+  position: fixed;
+  left: 14cm;
+  top: 7cm;
+  border: 2px solid lightslategrey;
+  height: 300px;
+  width: 500px;
+  border-radius: 2px;
+  font-size: 40px;
+  background-color: rgba(255, 255, 255, 0.699);
+}
+.button {
+  font-size: 30px;
+  position: fixed;
+  left: 18cm;
+  top: 13cm;
+  border-radius: 4px;
+  width: 200px;
+  color: white;
+  background-color: rgb(70, 70, 255);
+}
+
+#email {
+  position: fixed;
+  left: 17cm;
+  top: 342px;
+  font-size: 20px;
+  border-radius: 4px;
+  text-align: center;
+}
+.pwd {
+  position: fixed;
+  left: 17cm;
+  top: 10cm;
+  font-size: 20px;
+  border-radius: 4px;
+}
+.confirmPassword {
+  position: fixed;
+  left: 17cm;
+  top: 11cm;
+  font-size: 20px;
+  border-radius: 4px;
+}
+.para {
+  color: dimgrey;
+  font-size: 25px;
+  text-align: center;
+}
+.alert {
+  position: fixed;
+  color: red;
+  top: 435px;
+  left: 691px;
+  font-size: 15px;
+}
+
+.nf {
+  position: relative;
+  top: 10cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf1 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf2 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf3 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf4 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf5 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf6 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf7 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf8 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf9 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf10 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf11 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf12 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.nf13 {
+  position: relative;
+  top: 3cm;
+  left: 3cm;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(66, 147, 172, 0.493);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #336b759d;
+}
+.two {
+  position: fixed;
+  top: 6cm;
+  left: 7cm;
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+}
+.three {
+  position: fixed;
+  top: 5cm;
+  left: 8cm;
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+}
+.four {
+  position: fixed;
+  top: 8cm;
+  left: 8cm;
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+}
+.five {
+  position: fixed;
+  top: 11cm;
+  left: 8cm;
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+}
